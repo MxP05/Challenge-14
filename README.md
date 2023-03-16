@@ -37,8 +37,8 @@ Improve the existing algorithmic trading systems and maintain the firm’s compe
 * Step 4: Create an Evaluation Report
 
 *SVM-plot and  LR-plot*
-![SVM](https://github.com/MxP05/Challenge-13/blob/main/Resources/im1.png?raw=true)
-![LR](https://github.com/MxP05/Challenge-13/blob/main/Resources/im2.png?raw=true)
+![SVM](https://github.com/MxP05/Challenge-14/blob/main/Resources/svm.png?raw=true)
+![LR](https://github.com/MxP05/Challenge-14/blob/main/Resources/lrplot.png?raw=true)
 ---
 
 ## Contributors
