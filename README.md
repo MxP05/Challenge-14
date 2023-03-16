@@ -49,7 +49,7 @@ changing the ending period for the traning data from 3 to 12 months, increased t
 Tuned algo accuracy score is .55 when chanching SMA short to 3, and long to 90
 ![SMA](https://github.com/MxP05/Challenge-14/blob/main/Resources/sma.png?raw=true)
 
-The new model, has both the 12 months and the updated sma feature however it gives there is no differnce in accuracy score .57
+The new model, has both the 12 months and the updated sma feature however it their is no differnce in accuracy score .57 when compared to the 12 month training score
 ![New model](https://github.com/MxP05/Challenge-14/blob/main/Resources/new.png?raw=true)
 
 ## Contributors
