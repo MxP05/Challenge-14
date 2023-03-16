@@ -40,6 +40,17 @@ Improve the existing algorithmic trading systems and maintain the firm’s compe
 ![SVM](https://github.com/MxP05/Challenge-14/blob/main/Resources/svm.png?raw=true)
 ![LR](https://github.com/MxP05/Challenge-14/blob/main/Resources/lrplot.png?raw=true)
 ---
+## Summary evaluation
+baseline algo accuracy score is .54
+![Base](https://github.com/MxP05/Challenge-14/blob/main/Resources/base.png?raw=true)
+
+changing the ending period for the traning data from 3 to 12 months, increased the score to .57
+![12Months](https://github.com/MxP05/Challenge-14/blob/main/Resources/12month.png?raw=true)
+Tuned algo accuracy score is .55 when chanching SMA short to 3, and long to 90
+![SMA](https://github.com/MxP05/Challenge-14/blob/main/Resources/sma.png?raw=true)
+
+The new model, has both the 12 months and the updated sma feature however it gives there is no differnce in accuracy score .57
+![New model](https://github.com/MxP05/Challenge-14/blob/main/Resources/new.png?raw=true)
 
 ## Contributors
 
